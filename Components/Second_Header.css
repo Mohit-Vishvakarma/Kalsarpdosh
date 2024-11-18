@@ -1,0 +1,9 @@
+p{
+    text-align: center;
+    line-height: 5vh;
+}
+
+.call_bar{
+    height: 5vh;
+    background-color: rgb(215, 243, 75);
+}
