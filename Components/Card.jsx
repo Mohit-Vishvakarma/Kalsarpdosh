@@ -1,14 +1,7 @@
 import React from 'react'
 import './Card.css'
-import { useNavigate } from 'react-router-dom'
 
 export default function Card({title, cardImage, cardDescription}) {
-
-  const navigate = useNavigate();
-
-  const handleReadMore = () => {
-    navigate('/blog');
-  }
 
   return (
     <div className='Card'>
@@ -22,9 +15,9 @@ export default function Card({title, cardImage, cardDescription}) {
        <p>{cardDescription}</p>
 
        <div className="btn">
-       <button onClick={handleReadMore}>Read More</button>
+       <button><a href="tel:+91 9516784194">Call for free Consult</a></button>
+
        </div>
-       {/* <div className="call">Call To Panditji</div> */}
 
     </div>
   )

@@ -1,6 +1,7 @@
 import React from 'react'
 import './Header.css'
 import Sidebar from './Sidebar';
+import Call from './Call';
 
 export default function Header() {
     
@@ -12,6 +13,7 @@ export default function Header() {
             </div>
         <Sidebar/>
     </div>
+    <Call/>
 </header>
     )
 }

@@ -37,8 +37,6 @@ export default function Footer() {
                 <p>9516784194</p>
                 </div>
             </div>
-
-
             <div className="footerAbout">
                 <h3 className='footerContactHeading'>About us</h3>
                 <p className='footerAboutParagraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam vero obcaecati cupiditate similique ex repellat debitis dolorum dolor doloremque repudiandae nulla, esse laboriosam animi, aliquid ab ullam. Voluptatibus, placeat perferendis.
@@ -49,10 +47,6 @@ export default function Footer() {
             </div>
 
             <p className='copyright'>Copyright@2024</p>
-
-            {/* <div className="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.5162994918596!2d75.77402687430833!3d23.22429200877237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396377b3b2831b83%3A0x6ddf73f885e151db!2sSiddhavat%20Ghat!5e0!3m2!1sen!2sin!4v1731594429193!5m2!1sen!2sin" width="600" height="450" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
-            </div> */}
 
 <div className="map-section">
           <h3>Sidhnath, Bherugar, Ujjain</h3>

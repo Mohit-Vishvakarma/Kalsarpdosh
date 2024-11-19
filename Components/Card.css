@@ -36,6 +36,7 @@ p{
 .btn{
     width: 100%;
     margin: 10px auto;
+    text-align: center;
 }
 
 button{
@@ -43,7 +44,7 @@ button{
     border: none;
     box-shadow: 0px 0px 5px rgb(242, 204, 204);
     padding: 3px;
-    width: 50%;
+    width: 80%;
     background-color: rgb(255, 185, 8);
     font-size: 0.9rem;
 }

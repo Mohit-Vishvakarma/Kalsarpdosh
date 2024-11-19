@@ -131,14 +131,8 @@
     .icon {
       font-size: 1.5rem;
     }
-    /* .map-section iframe {
-      height: 250px;
-    }
-    .menu-section h3 {
-      font-size: 1.2rem;
-    }
-    .menu-section ul li a {
-      font-size: 1rem;
-    } */
   }
-  
+
+ #contactNumber{
+  color: white;
+ }
