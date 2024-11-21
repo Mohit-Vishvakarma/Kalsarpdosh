@@ -4,6 +4,7 @@ p{
 }
 
 .call_bar{
+    display: none;
     height: 5vh;
     background-color: rgb(215, 243, 75);
 }
