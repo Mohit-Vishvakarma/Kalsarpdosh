@@ -5,9 +5,13 @@
     border-radius: 100%;
     font-size: 45px;
     padding: 8px;
-    /* background-color: #34e334; */
     box-shadow: 0px 0px 5px #624c4c;
-    margin-top: 82vh;
-    margin-left: 85vw;
+    margin-top: 80vh;
+    margin-left: 84vw;
     background-color: #ff0808;
+}
+
+
+.Call-Icon svg{
+    display: block;
 }
