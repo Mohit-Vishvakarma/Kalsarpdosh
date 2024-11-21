@@ -39,7 +39,7 @@ export default function Footer() {
             </div>
             <div className="footerAbout">
                 <h3 className='footerContactHeading'>About us</h3>
-                <p className='footerAboutParagraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam vero obcaecati cupiditate similique ex repellat debitis dolorum dolor doloremque repudiandae nulla, esse laboriosam animi, aliquid ab ullam. Voluptatibus, placeat perferendis.
+                <p className='footerAboutParagraph'>सिद्धनाथ घाट, उज्जैन के प्राचीन और पवित्र स्थलों में से एक है, जहाँ हमारी **नाहर वाल पंडा** परिवार की कई पीढ़ियाँ तीर्थ गुरु के रूप में अपनी सेवाएँ देती आ रही हैं। हमारी विशेषता है कि हम हर प्रकार की पूजन सेवा सरल और पवित्र तरीके से कराने में आपकी मदद करते हैं। 
                     <span className='aboutReadMoreBtn'>
                     {/* <Link to="/">Go to About</Link> */}
                     </span>
