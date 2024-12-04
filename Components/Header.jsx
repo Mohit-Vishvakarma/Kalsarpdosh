@@ -2,6 +2,7 @@ import React from 'react'
 import './Header.css'
 import Sidebar from './Sidebar';
 import Call from './Call';
+import Whatsapp from './Whatsapp';
 
 export default function Header() {
     
@@ -12,8 +13,10 @@ export default function Header() {
                 <h2 className=''>KalsarpDosh</h2>
             </div>
         <Sidebar/>
-    </div>
-    <Call/>
+        </div>
+        < Whatsapp/>
+        <Call/>
+
 </header>
     )
 }
