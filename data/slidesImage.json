@@ -1,7 +1,7 @@
 {
     "slides": [
         {
-            "src": "https://picsum.photos/seed/img1/300/150",
+            "src": "../public/assets/caurosalImage.jpeg",
             "alt": "img1 ka carousel"
         },
         {
