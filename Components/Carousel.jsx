@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+// import image from '../public/assets/caurosalInage.jpg'
 import './Carousel.css'
 import { BsArrowLeftCircleFill, BsArrowRightCircleFill } from "react-icons/bs";
 
@@ -19,7 +20,7 @@ const prevSlide = () =>{
     <div className='Carousel'>
     <BsArrowLeftCircleFill className='arrow arrowLeft' onClick={prevSlide} />
     {data.map((item, idx) => {
-      return <img src={item.src} alt={item.alt} key={idx} className={slide === idx ? 'slide' : 'slide slide-hidden'} />
+      return <img src='../public/assets/caurosalImage.jpg' alt={item.alt} key={idx} className={slide === idx ? 'slide' : 'slide slide-hidden'} />
     })}
     <BsArrowRightCircleFill className='arrow arrowRight' onClick={nextSlide} />
     <span className='indicators'>
