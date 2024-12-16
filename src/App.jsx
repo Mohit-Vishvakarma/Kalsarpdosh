@@ -10,6 +10,8 @@ import Gallary from '../Components/Gallary';
 import About from '../Components/About'
 import Contact from '../Components/Contact';
 import Blog from '../Components/Blog';
+// import image from '../public/assets/caurosalInage.jpg'
+
 
 import { slides } from '../data/slidesImage.json';
 
@@ -30,7 +32,7 @@ function App() {
           element={
             <>
               {/* Home Page Layout */}
-              <Carousel data={slides} />
+              {/* <Carousel data={slides} /> */}
               <Services />
               <Gallary />
             </>
