@@ -24,7 +24,7 @@ const Contact = () => {
 
           <div className="info-item">
             <h3>About Us</h3>
-            <p>We are a company dedicated to providing excellent service and products. Our team is always available to help you with any queries.</p>
+            <p>सिद्धनाथ घाट, उज्जैन के प्राचीन और पवित्र स्थलों में से एक है, जहाँ हमारी **नाहर वाल पंडा** परिवार की कई पीढ़ियाँ तीर्थ गुरु के रूप में अपनी सेवाएँ देती आ रही हैं। हमारी विशेषता है कि हम हर प्रकार की पूजन सेवा सरल और पवित्र तरीके से कराने में आपकी मदद करते हैं।</p>
           </div>
         </div>
 
