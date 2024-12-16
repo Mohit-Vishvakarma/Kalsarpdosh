@@ -38,10 +38,10 @@ function App() {
             </>
           }
         />
-        <Route path="/about" element={<About />} />
+        {/* <Route path="/about" element={<About />} /> */}
         <Route path="/gallary" element={<Gallary />} />
         <Route path="/services" element={<Services />} />
-        <Route path="/blog" element={<Blog/>} />
+        {/* <Route path="/blog" element={<Blog/>} /> */}
         <Route path="/contact" element={<Contact />} />
         <Route
           path="*"

@@ -27,13 +27,13 @@ const Sidebar = () => {
           >
             Home
           </NavLink>
-          <NavLink
+          {/* <NavLink
             to="/about"
             className={({ isActive }) => (isActive ? "active" : "")}
             onClick={toggleSidebar}
           >
             About
-          </NavLink>
+          </NavLink> */}
           <NavLink
             to="/services"
             className={({ isActive }) => (isActive ? "active" : "")}
@@ -48,13 +48,13 @@ const Sidebar = () => {
           >
             Gallary
           </NavLink>
-          <NavLink
+          {/* <NavLink
             to="/blog"
             className={({ isActive }) => (isActive ? "active" : "")}
             onClick={toggleSidebar}
           >
             Blogs
-          </NavLink>
+          </NavLink> */}
           <NavLink
             to="/contact"
             className={({ isActive }) => (isActive ? "active" : "")}
